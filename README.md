@@ -1,6 +1,6 @@
 # Raffle.app
-Raffle system using html and javascript running logic using Node.js/
+Raffle user interface with html and javascript running logic using Node.js/
 
 
-supply chain smart contract - users able to purchase list and dispatch items.
+supply chain smart contract - users able to purchase, list and dispatch items.
 
