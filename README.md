@@ -1,4 +1,4 @@
-# Raffle.app
+# Raf.AI
 Raffle user interface with html and javascript running logic using Node.js/
 
 
